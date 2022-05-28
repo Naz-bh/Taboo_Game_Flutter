@@ -1,10 +1,4 @@
-# mobile_hw_2
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
 
 This project is a incomplete Flutter Taboo game.
 
